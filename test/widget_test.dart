@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:practice_mobile_app/auth_screen.dart';
+import 'package:practice_mobile_app/screens/auth_screen.dart';
 
 import 'package:practice_mobile_app/main.dart';
 
